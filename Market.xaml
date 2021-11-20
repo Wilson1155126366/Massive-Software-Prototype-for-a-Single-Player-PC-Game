@@ -1,0 +1,110 @@
+﻿<Page x:Class="IERG3080_____Pokemon_Go.Market"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:IERG3080_____Pokemon_Go"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="1000" Title="Market" FocusManager.FocusedElement="{Binding ElementName=Market_map}">
+
+    <Grid>
+        <Canvas Name="Market_map" KeyDown="Canvas_KeyDown" KeyUp="Canvas_KeyUp" Focusable="True" >
+            <Image Name="market_map" Source="useful_picture/market.png" Width="610" Height="600" Canvas.Left="186"/>
+            <Image Name="player" Source="useful_picture/player_back.png" Width="60" Height="60" Canvas.Left="340" Canvas.Top="410"/>
+
+            <Image Name="rect1" Source="useful_picture/red.png" Width="186" Height="204" Canvas.Left="208" Canvas.Top="149" Visibility="Hidden"/>
+
+            <Button Name="Tutor_Button" Content="[For Prof and TA]&#xa;Tutorial of how to play" Height="50" Width="188" Click="Tutor_Click" Focusable="False" Visibility="Visible" Canvas.Left="3"/>
+
+            <Rectangle Name="block1" Width="252" Height="600" Margin="0" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+
+            <Rectangle Name="block2" Width="303" Height="600" Margin="0" Canvas.Left="697" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+
+            <Rectangle Name="block3" Width="347" Height="63" Margin="0" Canvas.Left="350" Visibility="Hidden" Canvas.Top="119">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+
+            <Rectangle Name="block4" Width="143" Height="57" Margin="0" Canvas.Left="491" Visibility="Hidden" Canvas.Top="365">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+
+            <Rectangle Name="block5" Width="73" Height="108" Margin="0" Canvas.Left="442" Visibility="Hidden" Canvas.Top="257">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+
+            <Rectangle Name="block6" Width="76" Height="67" Margin="0" Canvas.Left="568" Visibility="Hidden" Canvas.Top="257">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+
+            <Rectangle x:Name="drink_buyer" Width="56" Height="85" Margin="0" Canvas.Left="597" Visibility="Hidden" Canvas.Top="119">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+
+            <Rectangle x:Name="peter" Width="82" Height="51" Margin="0" Canvas.Left="433" Visibility="Hidden" Canvas.Top="221">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+
+            <Rectangle x:Name="stander" Width="45" Height="41" Margin="0" Canvas.Left="433" Visibility="Hidden" Canvas.Top="324">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+
+            <Rectangle Name="shopper" Width="98" Height="179" Margin="0" Canvas.Left="252" Visibility="Hidden" Canvas.Top="157">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+
+            <Rectangle Name="exit" Width="76" Height="47" Margin="0"  Canvas.Left="332" Canvas.Top="475" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+
+            <Image Name="enter" Source="useful_picture/Enter.png" Width="100" Height="100" Canvas.Top="69" Visibility="Hidden"/>
+        </Canvas>
+    </Grid>
+</Page>

@@ -1,0 +1,42 @@
+﻿<Page x:Class="IERG3080_____Pokemon_Go.Shop"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:IERG3080_____Pokemon_Go"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="1000"
+      Title="Shop">
+
+    <Grid Background="White">
+        <Canvas Name="Pokemon_box" Focusable="False" >
+            <Image Name="box" Source="useful_picture/box.png" Width="931" Height="600" Canvas.Left="41"/>
+            <Image Name="pokemon_image" Source="useful_picture/unknown.png" Width="188" Height="163" Canvas.Left="137" Canvas.Top="272"/>
+            <Image x:Name="money_board" Source="useful_picture/money.png" Stretch="Fill" Width="322" Height="78" Canvas.Left="70" Canvas.Top="10"/>
+            <Image Name="coin_icon" Source="useful_picture/coin.png" Width="80" Height="80" Canvas.Left="108" Canvas.Top="8"/>
+
+            <TextBlock x:Name="textBlock2" TextWrapping="Wrap" Text="Your Pokemon Team (only one member in demo version)" FontSize="20" FontWeight="Bold" Height="107" Width="188" Canvas.Left="137" Canvas.Top="156"/>
+            <TextBlock x:Name="textBlock3" TextWrapping="Wrap" FontSize="20" FontWeight="Bold" Height="242" Width="300" Canvas.Left="373" Canvas.Top="182"/>
+            <TextBlock x:Name="textBlock4" TextWrapping="Wrap" Text="X 0" FontSize="30" FontWeight="Bold" Height="42" Width="130" Canvas.Left="217" Canvas.Top="28"/>
+
+            <Button x:Name="Levelup" Content="[Level Up] [$100]" Width="168" FontSize="20" FontWeight="Bold" Click="Levelup_Click" Canvas.Left="713" Canvas.Top="338" Height="32"/>
+            <Button x:Name="Evolve" Content="[Evolve] [$500]" Width="168" FontSize="20" FontWeight="Bold" Click="Evolve_Click" Canvas.Left="713" Canvas.Top="392" Height="32"/>
+            <Button x:Name="Rename" Content="[Rename] [$50]" Width="168" FontSize="20" FontWeight="Bold" Click="Rename_Click" Canvas.Left="713" Canvas.Top="182" Height="32"/>
+
+            <TextBox x:Name="textbox" Height="80" TextWrapping="Wrap" Width="168" Canvas.Left="713" Canvas.Top="235"/>
+
+            <Button x:Name="Exitbutton" Content="X" FontSize="50" FontWeight="Bold" Height="60" Width="60" Click="exit" Canvas.Left="870" Canvas.Top="23">
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Foreground" Value="Black"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Foreground" Value="White"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+        </Canvas>
+    </Grid>
+</Page>

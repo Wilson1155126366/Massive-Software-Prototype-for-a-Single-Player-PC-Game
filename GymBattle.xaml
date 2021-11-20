@@ -1,0 +1,40 @@
+﻿<Page x:Class="IERG3080_____Pokemon_Go.GymBattle"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IERG3080_____Pokemon_Go"
+        mc:Ignorable="d"
+        Title="Window1" Height="600" Width="1000">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Opacity="0.71" ImageSource="/battle_background.png"/>
+        </Grid.Background>
+        <Image x:Name="player2_pokemon" HorizontalAlignment="Left" Height="185" Margin="653,48,0,0" VerticalAlignment="Top" Width="170" Source="/pikachu2.png" RenderOptions.BitmapScalingMode="HighQuality" RenderOptions.EdgeMode="Aliased">
+            <Image.RenderTransform>
+                <TranslateTransform X="{Binding player2X}" Y="{Binding player2Y}" />
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="player1_pokemon" HorizontalAlignment="Left" Height="161" Margin="275,242,0,0" VerticalAlignment="Top" Width="173" Source="/pikachu2.png" RenderOptions.BitmapScalingMode="HighQuality" RenderOptions.EdgeMode="Aliased" RenderTransformOrigin="0.274,0.438">
+            <Image.RenderTransform>
+                <TranslateTransform X="{Binding player1X}" Y="{Binding player1Y}" />
+            </Image.RenderTransform>
+        </Image>
+        <Label x:Name="player1_name" Content="Pikachu (Lv. 5)" HorizontalAlignment="Left" Height="27" Margin="314,402,0,0" VerticalAlignment="Top" Width="134" Background="#DDFFFFFF"/>
+        <Label x:Name="player2_name" Content="Pikachu (Lv.10)" HorizontalAlignment="Left" Height="27" Margin="689,206,0,0" VerticalAlignment="Top" Width="134" Background="#DDFFFFFF"/>
+        <ProgressBar x:Name="player1_bar" HorizontalAlignment="Left" Height="18" Margin="141,320,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label x:Name="player1_hp" Content="HP: 10/10" HorizontalAlignment="Left" Height="27" Margin="141,338,0,0" VerticalAlignment="Top" Width="100" Background="#DDFFFFFF"/>
+        <ProgressBar x:Name="player2_bar" HorizontalAlignment="Left" Height="18" Margin="533,106,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label x:Name="player2_hp" Content="HP: 10/10" HorizontalAlignment="Left" Height="27" Margin="533,124,0,0" VerticalAlignment="Top" Width="100" Background="#DDFFFFFF"/>
+        <TextBlock x:Name="attackboard" HorizontalAlignment="Left" Height="169" Margin="533,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="364" Background="#DDFFFFFF" OpacityMask="Black"/>
+        <WrapPanel x:Name="actions" HorizontalAlignment="Left" Height="62" Margin="41,466,0,0" VerticalAlignment="Top" Width="907">
+            <Button Content="Action 1" HorizontalAlignment="Left" Height="62" Margin="0,0,0,0" VerticalAlignment="Top" Width="200"/>
+            <Button Content="Action 2" HorizontalAlignment="Left" Height="62" Margin="35,0,0,0" VerticalAlignment="Top" Width="200"/>
+            <Button Content="Action 3" HorizontalAlignment="Left" Height="62" Margin="35,0,0,0" VerticalAlignment="Top" Width="200"/>
+            <Button Content="Action 4" HorizontalAlignment="Left" Height="62" Margin="35,0,0,0" VerticalAlignment="Top" Width="200"/>
+        </WrapPanel>
+        <Image x:Name="player1_item1" HorizontalAlignment="Left" Height="20" Margin="141,295,0,0" VerticalAlignment="Top" Width="20" Source="/shield.png" RenderOptions.BitmapScalingMode="HighQuality" RenderOptions.EdgeMode="Aliased"/>
+
+        <Image x:Name="player2_item1" HorizontalAlignment="Left" Height="20" Margin="533,81,0,0" VerticalAlignment="Top" Width="20" Source="/shield.png" RenderOptions.BitmapScalingMode="HighQuality" RenderOptions.EdgeMode="Aliased"/>
+    </Grid>
+</Page>

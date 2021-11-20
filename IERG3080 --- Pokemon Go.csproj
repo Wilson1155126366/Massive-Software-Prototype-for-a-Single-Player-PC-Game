@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>IERG3080_____Pokemon_Go</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="battle_background.png" />
+    <None Remove="pikachu2.png" />
+    <None Remove="Pokeball5.png" />
+    <None Remove="Pokeball6.png" />
+    <None Remove="shield.png" />
+    <None Remove="shield2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="battle_background.png" />
+    <Resource Include="pikachu2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bgm\" />
+    <Folder Include="animation\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,233 @@
+﻿<Page x:Class="IERG3080_____Pokemon_Go.Map"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:IERG3080_____Pokemon_Go"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="1000" Title="Map" FocusManager.FocusedElement="{Binding ElementName=Town}">
+
+    <Grid Background="Black">
+        <Canvas Name="Town" KeyDown="Canvas_KeyDown" KeyUp="Canvas_KeyUp" Focusable="True" >
+            <Image Name="Town_map" Source="useful_picture/town.png"  Width="610" Height="600" Canvas.Left="186"/>
+            <Image Name="player" Source="useful_picture/player_front.png" Width="40" Height="40" Canvas.Left="480" Canvas.Top="169"/>
+
+            <Image Name="tutor1" Source="useful_picture/arrow.png"  Width="86" Height="92" Canvas.Left="590" Canvas.Top="195" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="92.051"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+            <Image Name="tutor2" Source="useful_picture/arrow.png"  Width="86" Height="92" Canvas.Left="818" Canvas.Top="42" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="125.221"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+            <Image Name="tutor3" Source="useful_picture/arrow.png"  Width="86" Height="92" Canvas.Left="441" Canvas.Top="1" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="127.939"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+            <Image Name="tutor4" Source="useful_picture/arrow.png"  Width="86" Height="92" Canvas.Left="206" Canvas.Top="278" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="22.73"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+            <Image Name="tutor5" Source="useful_picture/arrow.png"  Width="86" Height="92" Canvas.Left="397" Canvas.Top="463" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="39.982"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+
+            <TextBlock x:Name="textBlock1" TextWrapping="Wrap" Text="To Battle" FontSize="20" FontWeight="Bold" Height="34" Width="91" Canvas.Left="294" Canvas.Top="290" Visibility="Hidden"/>
+            <TextBlock x:Name="textBlock2" TextWrapping="Wrap" FontSize="20" FontWeight="Bold" Height="64" Width="152" Canvas.Left="490" Canvas.Top="470" Visibility="Hidden"><Run Text="To Pokemon"/><LineBreak/><Run Text="Storage"/></TextBlock>
+            <TextBlock x:Name="textBlock3" TextWrapping="Wrap" Text="To capture pokemon" FontSize="20" FontWeight="Bold" Height="61" Width="121" Canvas.Left="461" Canvas.Top="96" Visibility="Hidden"/>
+            <TextBlock x:Name="textBlock4" TextWrapping="Wrap" Text="To Pokemon shop" FontSize="20" FontWeight="Bold" Height="79" Width="119" Canvas.Left="605" Canvas.Top="274" Visibility="Hidden"/>
+            <TextBlock x:Name="textBlock5" TextWrapping="Wrap" Foreground="White" FontSize="20" FontWeight="Bold" Height="59" Width="108" Canvas.Left="832" Canvas.Top="130" Visibility="Hidden"><Run Text="Useful tool for testing"/><LineBreak/><Run/></TextBlock>
+
+            <Rectangle Name="block1" Width="191" Height="600" Margin="0" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="block2" Width="209" Height="600" Margin="0" Canvas.Left="791" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="house1" Width="117" Height="112" Margin="0"  Canvas.Left="313" Canvas.Top="109" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="house2" Width="118" Height="108" Margin="0"  Canvas.Left="342" Canvas.Top="382" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="house3" Width="147" Height="108" Margin="0"  Canvas.Left="613" Canvas.Top="382" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="house4" Width="168" Height="87" Margin="0"  Canvas.Left="582" Canvas.Top="102" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="board" Width="30" Height="23" Margin="0"  Canvas.Left="522" Canvas.Top="267" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="tree1" Width="176" Height="29" Margin="0"  Canvas.Left="254" Visibility="Hidden" Canvas.Top="10">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="tree2" Width="181" Height="30" Margin="0"  Canvas.Left="551" Visibility="Hidden" Canvas.Top="10">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="tree3" Width="59" Height="181" Margin="0"  Canvas.Left="732" Canvas.Top="40" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="tree4" Width="60" Height="240" Margin="0"  Canvas.Left="191" Canvas.Top="40" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="tree5" Width="90" Height="131" Margin="0"  Canvas.Left="221" Canvas.Top="469" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="tree6" Width="62" Height="252" Margin="0"  Canvas.Left="729" Canvas.Top="348" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="tree7" Width="61" Height="155" Margin="0"  Canvas.Left="190" Canvas.Top="348" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="tree8" Width="55" Height="131" Margin="0"  Canvas.Left="674" Canvas.Top="469" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="tree9" Width="100" Height="109" Margin="0"  Canvas.Left="221" Canvas.Top="10" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="tree10" Width="61" Height="109" Margin="0"  Canvas.Left="671" Canvas.Top="10" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="door2" Width="32" Height="37" Margin="0"  Canvas.Left="369" Canvas.Top="474" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="door4" Width="32" Height="37" Margin="0"  Canvas.Left="610" Canvas.Top="172" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="Towild" Width="117" Height="50" Margin="0"  Canvas.Left="435" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Rectangle Name="Totower" Width="61" Height="55" Margin="0"  Canvas.Left="190" Canvas.Top="300" Visibility="Hidden">
+
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White" />
+                </Rectangle.Fill>
+
+            </Rectangle>
+            <Button Name="Capture_Button" Content="To Capture Mode&#xa;catch pokemon" Height="50" Width="170" Click="Capture_Click" Focusable="False" Canvas.Top="164" Visibility="Hidden" Canvas.Left="791"/>
+            <Button Name="Battle_Button" Content="To Battle Mode&#xa;Play Gymbattle" Height="50" Width="170" Click="Battle_Click" Focusable="False" Canvas.Top="219" Visibility="Hidden" Canvas.Left="791"/>
+            <Button Name="Box_Button" Content="To Pokemon Storage&#xa;Manage pokemon collection" Height="50" Width="170" Click="Box_Click" Focusable="False" Canvas.Top="109" Visibility="Hidden" Canvas.Left="791"/>
+            <Button Name="Shop_Button" Content="To Pokemon Upgrade shop&#xa;Upgrade main pokemon" Height="50" Width="170" Click="Shop_Click" Focusable="False" Canvas.Top="55" Visibility="Hidden" Canvas.Left="791"/>
+            <Button Name="Money_Button" Content="Goldfinger&#xa;(Get infinite coin for testing)" Height="50" Width="170" Click="Money_Click" Focusable="False" Canvas.Top="274" Visibility="Hidden" Canvas.Left="791"/>
+
+            <Button Name="Testing_Button" Content="[For Prof and TA]&#xa;Get Testing Tool" Height="50" Width="189" Click="Testing_Click" Focusable="False" Visibility="Visible" Canvas.Left="791"/>
+
+            <Button Name="Tutor_Button" Content="[For Prof and TA]&#xa;Tutorial of how to play" Height="50" Width="188" Click="Tutor_Click" Focusable="False" Visibility="Visible" Canvas.Left="3"/>
+
+            <Image Name="tutor" Source="useful_picture/tutor.png" Width="100" Height="100" Canvas.Left="450" Canvas.Top="69" Visibility="Hidden"/>
+            <Image Name="enter" Source="useful_picture/Enter.png" Width="100" Height="100" Canvas.Top="69" Visibility="Hidden"/>
+        </Canvas>
+    </Grid>
+</Page>

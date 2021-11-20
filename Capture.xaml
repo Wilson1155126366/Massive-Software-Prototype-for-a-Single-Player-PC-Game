@@ -1,0 +1,23 @@
+﻿<Page x:Class="IERG3080_____Pokemon_Go.Capture"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IERG3080_____Pokemon_Go"
+        mc:Ignorable="d"
+        Title="Window1" Height="600" Width="1000">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/battle_background.png"/>
+        </Grid.Background>
+        <Button x:Name="capture_button" Content="Capture" HorizontalAlignment="Left" Height="50" Margin="794,444,0,0" VerticalAlignment="Top" Width="163" Click="Capture_button_Click"/>
+        <Grid HorizontalAlignment="Left" Height="1552" Margin="-1582,405,0,0" VerticalAlignment="Top" Width="1038"/>
+        <Image x:Name="target_pokemon" HorizontalAlignment="Left" Height="147" Margin="712,153,0,0" VerticalAlignment="Top" Width="164" Source="/pikachu2.png" RenderOptions.BitmapScalingMode="HighQuality" RenderOptions.EdgeMode="Aliased"/>
+        <ProgressBar x:Name="progress_game" HorizontalAlignment="Left" Height="18" Margin="186,460,0,0" VerticalAlignment="Top" Width="568"/>
+        <Image HorizontalAlignment="Left" Height="68" Margin="51,435,0,0" VerticalAlignment="Top" Width="72" Source="/Pokeball5.png" RenderOptions.BitmapScalingMode="HighQuality" RenderOptions.EdgeMode="Aliased"/>
+        <Label x:Name="countdown" Content="3" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="100" Background="White" FontSize="60" FontWeight="Light"/>
+        <Label x:Name="pokemon_nametag" Content="Pikachu (Lv.3)" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Height="29" Margin="712,300,0,0" VerticalAlignment="Top" Width="164" Background="#CCFFFFFF"/>
+
+    </Grid>
+</Page>

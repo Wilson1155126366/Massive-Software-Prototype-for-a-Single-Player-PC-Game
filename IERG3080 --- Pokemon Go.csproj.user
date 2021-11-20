@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Capture.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Center.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GymBattle.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Manage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Map.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Market.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Shop.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Startpage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Top.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="tower.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Wild.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Center.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Capture.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GymBattle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Manage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Map.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Market.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Shop.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Startpage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Top.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="tower.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Wild.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
