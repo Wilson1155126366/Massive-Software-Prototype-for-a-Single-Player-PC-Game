@@ -1,0 +1,502 @@
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csprojAssemblyReference.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\Capture.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\Capture.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\GymBattle.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\Map.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\Map.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csprojAssemblyReference.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\Capture.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\Map.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\Capture.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\GymBattle.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\Map.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\Startpage.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go\obj\Debug\netcoreapp3.1\Startpage.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csprojAssemblyReference.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\Capture.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\Map.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\Startpage.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\Capture.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\GymBattle.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\Map.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\Startpage.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.2\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csprojAssemblyReference.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Capture.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Map.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Startpage.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Capture.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\GymBattle.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Map.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Startpage.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Center.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Center.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csprojAssemblyReference.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Capture.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Center.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Map.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Startpage.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Capture.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Center.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\GymBattle.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Map.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\Startpage.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.3\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csprojAssemblyReference.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Capture.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Center.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Map.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Startpage.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Capture.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Center.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\GymBattle.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Map.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Startpage.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csprojAssemblyReference.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Capture.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Center.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Map.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Startpage.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Capture.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Center.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\GymBattle.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Map.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\Startpage.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.4\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csprojAssemblyReference.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\Capture.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\Center.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\Map.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\Startpage.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\Capture.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\Center.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\GymBattle.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\Map.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\Startpage.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\Manage.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\Manage.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\Market.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\Market.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\Shop.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.4.1\obj\Debug\netcoreapp3.1\Shop.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csprojAssemblyReference.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\Capture.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\Center.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\Manage.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\Map.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\Market.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\Shop.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\Startpage.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\Capture.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\Center.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\GymBattle.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\Manage.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\Map.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\Market.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\Shop.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\Startpage.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.5\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csprojAssemblyReference.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\Capture.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\Center.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\Manage.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\Map.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\Market.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\Shop.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\Startpage.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\Capture.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\Center.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\GymBattle.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\Manage.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\Map.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\Market.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\Shop.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\Startpage.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.6\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csprojAssemblyReference.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Capture.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Center.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Manage.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Map.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Market.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Shop.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Startpage.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Capture.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Center.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\GymBattle.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Manage.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Map.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Market.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Shop.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Startpage.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Wild.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Wild.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\tower.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\tower.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Capture.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Center.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Manage.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Map.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Market.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Shop.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Startpage.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Top.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\tower.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Wild.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Capture.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Center.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\GymBattle.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Manage.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Map.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Market.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Shop.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Startpage.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Top.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\tower.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\Wild.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.7\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csprojAssemblyReference.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Capture.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Center.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Manage.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Map.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Market.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Shop.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Startpage.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Top.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\tower.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Wild.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Capture.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Center.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\GymBattle.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Manage.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Map.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Market.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Shop.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Startpage.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Top.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\tower.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Wild.baml
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+C:\Users\CUA\Desktop\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csprojAssemblyReference.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Capture.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Center.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Manage.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Map.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Market.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Shop.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Startpage.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Top.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\tower.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Wild.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Capture.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Center.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\GymBattle.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Manage.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Map.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Market.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Shop.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Startpage.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Top.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\tower.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\Wild.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go 1.8\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.exe
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.deps.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.runtimeconfig.dev.json
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\bin\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csprojAssemblyReference.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Capture.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Center.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Manage.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Map.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Market.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Shop.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Startpage.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Top.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\tower.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Wild.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go_MarkupCompile.lref
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Capture.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Center.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\GymBattle.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Manage.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Map.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Market.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Shop.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Startpage.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Top.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\tower.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\Wild.baml
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.g.resources
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfoInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.AssemblyInfo.cs
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.csproj.CoreCompileInputs.cache
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.dll
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.pdb
+D:\Onedrive\OneDrive - The Chinese University of Hong Kong\IERG\IERG3080\Project\Project Part 2\IERG3080 --- Pokemon Go Final\obj\Debug\netcoreapp3.1\IERG3080 --- Pokemon Go.genruntimeconfig.cache
